@@ -2,10 +2,15 @@
 
 { 
     "ID" : "#5621613",  
+    
     "Summary" : "App crashes after launching",
+    
     "Product" : "Teat app",
+    
     "Version" : "Build v2.2",
+    
     "Environmets" : "iPhone 13 iOS 15.5",
+    
     "Status" : "New",
     "Severity" : "Critical",
     "Priority" : "Hight",
