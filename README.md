@@ -26,4 +26,6 @@
     
     "Actual result" : "After tapping on app icon app crashes",
     
+    "Attachments" : "crash log.txt"
+    
   }
